@@ -8,7 +8,7 @@
 - [Questions & Hypotheses](#questions-and-hypotheses)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
-- [Errata](#errata)
+- [Limitations](#limitations)
 - [Links](#links)
 
 ## Project Description
@@ -31,11 +31,14 @@ The climate change data focuses on percipitation and temperature. I downloaded i
 3. Decide whether or not to use provided normalized data
 4. Sketch what the final story should look like
 5. Tableau
+6. Adjust visualizations to show a range of graph types, animation skills, and add annotations
 
-## Errata
+## Limitations
 For many countries, there are years where there is no data. Additionally, there can be an issue with reporting data. Although it is not ideal, the graphs still show the general relationship between different traits; however, they should not be assumed to be a complete representation.  
+
+Additionally the SDG dataset included normailzed columns, but no documentation on how these columns were normalized. I chose to use unnormalized data because the columns I chose to analyse were not influenced by population size, or were already adjusted. 
 
 ## Links
 [Repository](https://github.com/ejh56/ironhack_week4_project) 
 
-[Tableau Public]()
+[Tableau Public](https://public.tableau.com/profile/emily.horton3683#!/vizhome/Climate_Change_Vulnerability/Story1)
