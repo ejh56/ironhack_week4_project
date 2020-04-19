@@ -20,10 +20,10 @@ Looking at the UN's Sustainable Development Goals Dataset (SDG), I was curious t
 
 ## Dataset
 [SDG Dataset](https://www.kaggle.com/alahbs/global-sustainable-development-goals-data/data)
-The SDG dataset contains two tables - an in depth global index and a time-series. The data in this set is from 2000 until 2018. For more about the dataset and SDG, click here: https://www.sdgindex.org/
+The SDG dataset contains two tables - an [in depth global index](https://github.com/ejh56/ironhack_week4_project/blob/master/datasets/Global_Index_Data.xlsx) and a [time-series](https://github.com/ejh56/ironhack_week4_project/blob/master/datasets/Time_Series_Database-1.xlsx). The data in this set is from 2000 until 2018. For more about the dataset and SDG, click here: https://www.sdgindex.org/
 
 [World Bank Climate Change Data](https://climateknowledgeportal.worldbank.org/download-data)
-The climate change data focuses on percipitation and temperature. I downloaded information for all countries, from 1991 until 2016. This limited the SDG Dataset to 2016 as well. 
+The climate change data focuses on [precipitation](https://github.com/ejh56/ironhack_week4_project/blob/master/datasets/rainfall_per_country.csv) and [temperature](https://github.com/ejh56/ironhack_week4_project/blob/master/datasets/temperatures_per_country.csv). I downloaded information for all countries, from 1991 until 2016. This limited the SDG Dataset to 2016 as well. 
 
 ## Workflow
 1. Explore the data and discover what I do not understand
@@ -36,9 +36,8 @@ The climate change data focuses on percipitation and temperature. I downloaded i
 ## Limitations
 For many countries, there are years where there is no data. Additionally, there can be an issue with reporting data. Although it is not ideal, the graphs still show the general relationship between different traits; however, they should not be assumed to be a complete representation.  
 
-Additionally the SDG dataset included normailzed columns, but no documentation on how these columns were normalized. I chose to use unnormalized data because the columns I chose to analyse were not influenced by population size, or were already adjusted. 
+Additionally the SDG dataset included normalized columns, but no documentation on how these columns were normalized. I chose to use unnormalized data because the columns I chose to analyze were not influenced by population size, or were already adjusted. 
 
 ## Links
 [Repository](https://github.com/ejh56/ironhack_week4_project) 
-
 [Tableau Public](https://public.tableau.com/profile/emily.horton3683#!/vizhome/Climate_Change_Vulnerability/Story1)
