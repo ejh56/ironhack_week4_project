@@ -12,7 +12,7 @@
 - [Links](#links)
 
 ## Project Description
-Looking at the UN's Sustainable Development Goals Dataset (SDG), I was curious to explore what factors were related to a country's status on the Climate Change Vulnerability Index. By combining two World Bank climate change datasets with the SDG dataset, I was able to show how temperature, rainfall, and crop yield differ between high risk countries and the rest of the world.
+Looking at the UN's Sustainable Development Goals Dataset (SDG), I was curious to explore what factors were related to a country's status on the Climate Change Vulnerability Index. By combining two World Bank climate change datasets with the SDG dataset, I was able to show how temperature, rainfall, crop yield, and poverty differ between high risk countries and the rest of the world.
 
 ## Questions and Hypotheses
 * Without previous knowledge of what factors are considered in climate change vulnerability, can I show how different climate factors are connected to the index? 
